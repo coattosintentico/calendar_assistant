@@ -6,4 +6,4 @@ The credentials to access to the user's google account have to be made first fol
 
 Runs completely in terminal.
 
-Made by Manuel Sánchez based on [the tutorials by Tech with Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mBungzp4GO4fswxO8wTEFx).
+Made by Manuel Sánchez based on [the tutorials by Tech with Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mBungzp4GO4fswxO8wTEFx). I gladly thank you him for taking the time in teaching others what he already knows.
